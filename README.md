@@ -11,14 +11,14 @@ I'm passionate about helping organizations maximize the value of their data thro
 
 ## 🎯 Areas of Expertise:
 
-- Data Governance
-- Data Management
-- Business Intelligence
-- Data Analytics
-- Metadata Management
-- Data Classification
-- Data Documentation
-- Power BI Reporting
+- Data Governance.
+- Data Management.
+- Business Intelligence.
+- Data Analytics.
+- Metadata Management.
+- Data Classification.
+- Data Documentation.
+- Power BI Reporting.
 
 ## 🛠️ Technical Skills:
 
